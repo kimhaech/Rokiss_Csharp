@@ -8,7 +8,7 @@ namespace Csharp
         {
             // 정수
             int hp;
-
+            
             hp = 100;
 
             Console.WriteLine("Hello Number ! {0}", hp);
@@ -31,6 +31,15 @@ namespace Csharp
             s = "I'm hungry...";
 
             Console.WriteLine(s);
+
+            // 형변환
+            int a = 1000;
+            short b = (short)a;
+
+            byte bt = 255;
+            sbyte sb = (sbyte)bt;
+            // 0xFF = 0b11111111 = -1
+
 
         }
     }
