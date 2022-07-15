@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Do0YZjIq2n8IDo8Spn2DvKJt9i3Bjxm6a9Gt3139g3h/q9+lId/an6zucH2TTROM3n15G4dl/OabWo0bW7I/5Q==",
+  "dgSpecHash": "rA92RLpMBpRIrabLFh9tGgeEz3EqDBtG74CzeUeKpUfjap1ev9Aqnb62tp274ROkvdMVD4ULWN+Gg0GHXh4Xzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\epicl\\Documents\\GitHub\\Rokiss_Csharp\\csharp\\Csharp\\Csharp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\epicl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
-    "C:\\Users\\epicl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\epicl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\epicl\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
